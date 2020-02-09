@@ -1,0 +1,14 @@
+Class: Bears
+
+Attributes:
+color: (string)
+is_older_than_one: (boolean)
+fur_thickness: (String)
+is_male: booleans
+height (integer)
+
+Methods:
+grow_panda: (add 1 to current height)
+change_color: (change color of panda)
+check_gender: (sets is_male to true)
+cut_fur: (subtract 1 from fur thickness)

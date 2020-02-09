@@ -1,0 +1,14 @@
+Instance: Pandas
+
+Attributes:
+color: 'red'
+is_older_than_one: true
+fur_thickness: 5
+is_male: true
+height: 5
+
+Methods:
+grow_panda: 6
+change_color: 'purple'
+check_gender: true
+cut_fur: 4
